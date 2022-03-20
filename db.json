@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "jein",
+      "empresa": "empresa jein",
+      "email": "rojaslicas@gmail.com",
+      "telefono": "912187915",
+      "notas": "484215sfergdf45gd4fg56fdgd",
+      "id": 3
+    },
+    {
+      "nombre": "josef",
+      "empresa": "CyC Computer",
+      "email": "rojaslicas@gmail.com",
+      "telefono": "985456450",
+      "notas": "Notas xdxdxd",
+      "id": 4
+    }
+  ]
+}
